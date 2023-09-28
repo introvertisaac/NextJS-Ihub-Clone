@@ -14,10 +14,10 @@ const Description = () => {
 
 <ol className='flex flex-col list-decimal list-inside list'>
   <h3 className='py-3 text-sm font-semibold '>Required Skills</h3>
-  <li className='px-3 text-sm font-light pb-1 text-gray-800'>HTML, CSS, JavaScrip</li>
+  <li className='px-3 text-sm font-light pb-1 text-gray-800'>HTML, CSS, JavaScript</li>
   <li className='px-3 text-sm font-light pb-1 text-gray-800'>RDMS</li>
   <li className='px-3 text-sm font-light pb-1 text-gray-800'>Python Basic to Advanced, Django Framework</li>
-  <li className='px-3 text-sm font-light pb-1 text-gray-800'>API's</li>
+  <li className='px-3 text-sm font-light pb-1 text-gray-800'>APIs</li>
   <li className='px-3 text-sm font-light pb-1 text-gray-800'>Live Projects</li>
 </ol>
 
