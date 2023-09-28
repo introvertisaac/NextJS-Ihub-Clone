@@ -2,7 +2,7 @@ import React from 'react';
 
 const Description = () => {
   return (
-    <div className=''>
+    <div >
       <p className='text-gray-800 text-sm font-medium'>Job Description: We seek a Django development intern to join our dynamic development team. As a Python Developer, you will be responsible for developing and maintaining robust, scalable, and secure web applications using Django framework and deploying them on GCP infrastructure. You will work closely with cross-functional teams, including product managers, designers, and other developers, to deliver high-quality software solutions.</p>
 
       <ol className='flex flex-col list-decimal list-inside list'>
