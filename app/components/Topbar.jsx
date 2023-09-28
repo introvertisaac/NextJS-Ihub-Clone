@@ -9,7 +9,7 @@ import TopbarIcons from './TopbarIcons'
 const Topbar = () => {
   return (
     <div className='bg-white flex justify-between flex-wrap'>
-        <div className='py-2 pl-3'><Image src={"/logo.png"} width={110} height={110} className=''/></div>
+        <div className='py-2 pl-3'><Image src={"/logo.png"} width={110} height={110} className='' alt='logo'/></div>
         <div className='flex cursor-pointer'>
             <a className='pr-10 align-middle py-8 font-bold text-black  text-xs'>COMMUNITY</a>
             <a className='pr-10 align-middle py-8 font-bold text-black text-xs'>JOBS</a>
